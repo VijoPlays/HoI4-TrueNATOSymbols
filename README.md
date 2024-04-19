@@ -5,8 +5,8 @@ HoI4 uses a weird mixture of NATO-icons and their own self-made ones. Some of th
 
 This mod aims to correct this - especially since other mods of its kind are outdated, or incorrect as well.
 
-//TODO: Image of this mod
+![Most of the fixed symbols](https://github.com/VijoPlays/HoI4-TrueNATOSymbols/assets/13034134/51598766-58f5-4bb0-afb3-2f74c21962f4)
 
 # Download
 
-Either download it on this Release page directly - or via Steam:
+Either download it on this Release page directly - or via Steam: https://steamcommunity.com/sharedfiles/filedetails/?id=3226849405
